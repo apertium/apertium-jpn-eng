@@ -1,0 +1,10 @@
+{
+    "jpn-eng": {
+        "input": "jpn-eng-input.txt",
+        "mode": "jpn-eng"
+    },
+    "eng-jpn": {
+        "input": "eng-jpn-input.txt",
+        "mode": "eng-jpn"
+    }
+}
