@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <dictionary>
    <!-- Define the alphabet below. -->
-  <alphabet>aAáÁăảạÆbBcCčdDÐeEéèễệfFgGhHiIíjJkKlLmMnNoOóöớpPqQrRsSšştTŢuUúüưvVwWxXyYzZ</alphabet>
+  <alphabet/>
 
   <sdefs>
     <!-- Define symbol definitions within <sdef> here. -->
@@ -100,6 +100,12 @@
       <!-- example:
            <e><p><l>house<s n="n"/></l><r>casa<s n="n"/><s n="f"/></r></p></e>
       -->
+
+      <!--SECTION: Conjunctions-->
+      <e><p><l>and<s n="cnjcoo"/></l><r>そして<s n="cnjcoo"/></r></p></e>
+      <e><p><l>but<s n="cnjcoo"/></l><r>しかし<s n="cnjcoo"/></r></p></e>
+      <e><p><l>but<s n="cnjcoo"/></l><r>だが<s n="cnjcoo"/></r></p></e>
+      <e><p><l>or<s n="cnjcoo"/></l><r>または<s n="cnjcoo"/></r></p></e>
 
       <e><re>[.\?;:!…¿¶]</re><p><l><s n="sent"/></l><r><s n="sent"/></r></p></e>
       <e><re>,</re>          <p><l><s n="cm"/></l>  <r><s n="cm"/></r></p></e>
