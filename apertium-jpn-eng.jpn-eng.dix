@@ -106,6 +106,10 @@
       <e><p><l>but<s n="cnjcoo"/></l><r>しかし<s n="cnjcoo"/></r></p></e>
       <e><p><l>but<s n="cnjcoo"/></l><r>だが<s n="cnjcoo"/></r></p></e>
       <e><p><l>or<s n="cnjcoo"/></l><r>または<s n="cnjcoo"/></r></p></e>
+      <!--SECTION: Adverbial Conjunctions-->
+      <e><p><l>if<s n="cnjadv"/></l><r>もしも<s n="cnjcoo"/></r></p></e>
+      <e><p><l>because<s n="cnjadv"/></l><r>なぜなら<s n="cnjcoo"/></r></p></e>
+      <e><p><l>although<s n="cnjadv"/></l><r>けれども<s n="cnjcoo"/></r></p></e>
 
       <e><re>[.\?;:!…¿¶]</re><p><l><s n="sent"/></l><r><s n="sent"/></r></p></e>
       <e><re>,</re>          <p><l><s n="cm"/></l>  <r><s n="cm"/></r></p></e>
