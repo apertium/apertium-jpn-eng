@@ -111,6 +111,22 @@
       <e><p><l>because<s n="cnjadv"/></l><r>なぜなら<s n="cnjcoo"/></r></p></e>
       <e><p><l>although<s n="cnjadv"/></l><r>けれども<s n="cnjcoo"/></r></p></e>
 
+      <!--SECTION: Postpositions-->
+      <!--<e><p><l><s n=""/></l><r><s n=""/></r></p></e>-->
+      <!--SECTION: Numerals-->
+      <e><p><l>0<s n="num"/></l><r>0<s n="num"/></r></p></e>
+      <e><p><l>1<s n="num"/></l><r>1<s n="num"/></r></p></e>
+      <e><p><l>2<s n="num"/></l><r>2<s n="num"/></r></p></e>
+      <e><p><l>3<s n="num"/></l><r>3<s n="num"/></r></p></e>
+      <e><p><l>4<s n="num"/></l><r>4<s n="num"/></r></p></e>
+      <e><p><l>5<s n="num"/></l><r>5<s n="num"/></r></p></e>
+      <e><p><l>6<s n="num"/></l><r>6<s n="num"/></r></p></e>
+      <e><p><l>7<s n="num"/></l><r>7<s n="num"/></r></p></e>
+      <e><p><l>8<s n="num"/></l><r>8<s n="num"/></r></p></e>
+      <e><p><l>9<s n="num"/></l><r>9<s n="num"/></r></p></e>
+      <!--SECTION: Nouns-->
+      <e><p><l>House<s n="n"/></l><r>家<s n="n"/><s n="sg"/><s n="abs"/></r></p></e> 
+
       <e><re>[.\?;:!…¿¶]</re><p><l><s n="sent"/></l><r><s n="sent"/></r></p></e>
       <e><re>,</re>          <p><l><s n="cm"/></l>  <r><s n="cm"/></r></p></e>
    </section>
