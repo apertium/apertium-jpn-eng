@@ -94,6 +94,7 @@
     <sdef n="compound-only-L" c="May only be the left-side of a compound"/>
     <sdef n="compound-R"      c="May be the right-side of a compound, or a full word"/>
     <sdef n="abs" c="For things that don't have postpositions"/>
+    <sdef n="post"    c="Postposition"/>
   </sdefs>
 
    <section id="main" type="standard">
@@ -101,7 +102,6 @@
       <!-- example:
            <e><p><l>house<s n="n"/></l><r>casa<s n="n"/><s n="f"/></r></p></e>
       -->
-
       <!--SECTION: Conjunctions-->
       <e><p><l>and<s n="cnjcoo"/></l><r>そして<s n="cnjcoo"/></r></p></e>
       <e><p><l>but<s n="cnjcoo"/></l><r>しかし<s n="cnjcoo"/></r></p></e>
@@ -111,9 +111,33 @@
       <e><p><l>if<s n="cnjadv"/></l><r>もしも<s n="cnjcoo"/></r></p></e>
       <e><p><l>because<s n="cnjadv"/></l><r>なぜなら<s n="cnjcoo"/></r></p></e>
       <e><p><l>although<s n="cnjadv"/></l><r>けれども<s n="cnjcoo"/></r></p></e>
-
       <!--SECTION: Postpositions-->
-      <!--<e><p><l><s n=""/></l><r><s n=""/></r></p></e>-->
+      <e><p><l>according<s n="pr"/></l><r>ので<s n="post"/></r></p></e>
+      <e><p><l>by<s n="pr"/></l><r>で<s n="post"/></r></p></e>
+      <e><p><l>of<s n="pr"/></l><r>の<s n="post"/></r></p></e>
+      <e><p><l>in<s n="pr"/></l><r>に<s n="post"/></r></p></e>
+      <e><p><l>around<s n="pr"/></l><r>周りに<s n="post"/></r></p></e>
+      <e><p><l>above<s n="pr"/></l><r>上に<s n="post"/></r></p></e>
+      <e><p><l>by<s n="pr"/></l><r>よって<s n="post"/></r></p></e>
+      <e><p><l>to<s n="pr"/></l><r>へ<s n="post"/></r></p></e>
+      <e><p><l>for<s n="pr"/></l><r>ために<s n="post"/></r></p></e>
+      <e><p><l>on<s n="pr"/></l><r>ついて<s n="post"/></r></p></e>
+      <e><p><l>on<s n="pr"/></l><r>に<s n="post"/></r></p></e>
+      <e><p><l>from<s n="pr"/></l><r>から<s n="post"/></r></p></e>
+      <e><p><l>with<s n="pr"/></l><r>ともに<s n="post"/></r></p></e> <!-- with love , with care-->
+      <e><p><l>towards<s n="pr"/></l><r>向かって<s n="pr"/></r></p></e>
+      <e><p><l>for<s n="pr"/></l><r>の間<s n="post"/></r></p></e> 
+      <e><p><l>about<s n="pr"/></l><r>ぐらい<s n="post"/></r></p></e>
+      <e><p><l>with<s n="pr"/></l><r>と<s n="post"/></r></p></e>
+      <e><p><l>after<s n="pr"/></l><r>後に<s n="post"/></r></p></e>
+      <e><p><l>against<s n="pr"/></l><r>反対に<s n="post"/></r></p></e>
+      <e><p><l>within<s n="pr"/></l><r>以内<s n="post"/></r></p></e>
+      <e><p><l>as<s n="pr"/></l><r>として<s n="post"/></r></p></e>
+      <e><p><l>behind<s n="pr"/></l><r>後ろに<s n="post"/></r></p></e>
+      <e><p><l>under<s n="pr"/></l><r>下に<s n="post"/></r></p></e>
+      <e><p><l>near<s n="pr"/></l><r>近くに<s n="post"/></r></p></e>
+      <e><p><l>during<s n="pr"/></l><r>の間<s n="post"/></r></p></e>
+      <e><p><l>before<s n="pr"/></l><r>前に<s n="post"/></r></p></e>
       <!--SECTION: Numerals-->
       <e><p><l>0<s n="num"/></l><r>0<s n="num"/></r></p></e>
       <e><p><l>1<s n="num"/></l><r>1<s n="num"/></r></p></e>
